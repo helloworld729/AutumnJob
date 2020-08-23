@@ -1,0 +1,13 @@
+账号：金子心双子
+https://talent.baidu.com/external/baidu/campus.html#/individualCenter
+
+语音技术部：
+svm原理
+常用的核函数有哪些
+软间隔支持向量机是怎么回事
+SVM如何实现多分类
+kmeans原理
+初始点的初始化方式
+xgboost和gbdt的原理，有什么区别
+xgboost怎么处理null值
+auc有什么意义，怎么计算
